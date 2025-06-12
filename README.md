@@ -25,6 +25,10 @@
 
 <br/>
 
+# Changelog
+
+- Added Widget Function  src/gui/src/UI/settings/UITabWidget.js
+
 ## Puter
 
 Puter is an advanced, open-source internet operating system designed to be feature-rich, exceptionally fast, and highly extensible. Puter can be used as:
