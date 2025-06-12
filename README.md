@@ -27,7 +27,7 @@
 
 # Changelog
 
-- Added Widget Function  src/gui/src/UI/settings/UITabWidget.js
+- Added Widget Function > ```src/gui/src/UI/settings/UITabWidget.js```
 
 ## Puter
 
